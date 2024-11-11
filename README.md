@@ -38,12 +38,21 @@ A simple 2D game where the player controls a ball to collect coins. The goal is 
 ## How to Play
 
 -Objective: Collect a set number of coins within the time limit.
+
 -Controls:
+
 Use the arrow keys to move the ball:
+
 1.Left arrow: Move left
+
 2.Right arrow: Move right
+
 3.Up arrow: Move up
+
 4.Down arrow: Move down
+
 -Winning: If you collect the target number of coins within the time limit, you win.
+
 -Losing: If the timer reaches zero before you collect the required coins, you lose.
+
 -After winning or losing, the game will automatically reset after 3 seconds, allowing you to play again.
