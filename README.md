@@ -17,7 +17,7 @@ A simple 2D game where the player controls a ball to collect coins. The goal is 
 
 1. **Install Python**: Make sure you have Python installed. [Download Python](https://www.python.org/downloads/) if you haven’t already.
 2. **Install Pygame**: Open a terminal or command prompt and run:
-   
+   ```bash
       pip install pygame
     
 
@@ -25,15 +25,15 @@ A simple 2D game where the player controls a ball to collect coins. The goal is 
 
  -Clone this repository to your local machine:
      
-     - git clone https://github.com/RuaHuwari/2Dgame-ball-collecting-coins.git
+      git clone https://github.com/RuaHuwari/2Dgame-ball-collecting-coins.git
 
 #### Navigate into the project directory:
     
-    - cd 2Dgame-ball-collecting-coins
+     cd 2Dgame-ball-collecting-coins
 
 ## Run the game:
 
-    - python game.py
+     python game.py
 
 ## How to Play
 
