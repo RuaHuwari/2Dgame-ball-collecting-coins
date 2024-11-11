@@ -25,34 +25,34 @@ A simple 2D game where the player controls a ball to collect coins. The goal is 
 
  -Clone this repository to your local machine:
      
-     git clone https://github.com/RuaHuwari/2Dgame-ball-collecting-coins.git
+     - git clone https://github.com/RuaHuwari/2Dgame-ball-collecting-coins.git
 
 #### Navigate into the project directory:
     
-    -cd 2Dgame-ball-collecting-coins
+    - cd 2Dgame-ball-collecting-coins
 
 ## Run the game:
 
-    -python game.py
+    - python game.py
 
 ## How to Play
 
--Objective: Collect a set number of coins within the time limit.
+- Objective: Collect a set number of coins within the time limit.
 
--Controls:
+- Controls:
 
 Use the arrow keys to move the ball:
 
-1.Left arrow: Move left
+1. Left arrow: Move left
 
-2.Right arrow: Move right
+2. Right arrow: Move right
 
-3.Up arrow: Move up
+3. Up arrow: Move up
 
-4.Down arrow: Move down
+4. Down arrow: Move down
 
--Winning: If you collect the target number of coins within the time limit, you win.
+- Winning: If you collect the target number of coins within the time limit, you win.
 
--Losing: If the timer reaches zero before you collect the required coins, you lose.
+- Losing: If the timer reaches zero before you collect the required coins, you lose.
 
 -After winning or losing, the game will automatically reset after 3 seconds, allowing you to play again.
