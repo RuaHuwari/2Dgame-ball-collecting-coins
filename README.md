@@ -36,6 +36,7 @@ A simple 2D game where the player controls a ball to collect coins. The goal is 
     -python game.py
 
 ###How to Play
+
 -Objective: Collect a set number of coins within the time limit.
 -Controls:
 Use the arrow keys to move the ball:
